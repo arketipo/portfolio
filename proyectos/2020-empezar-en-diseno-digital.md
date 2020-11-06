@@ -1,14 +1,15 @@
 ---
 description: >-
-  Algunas acciones para intentar fomentar una profesión más diversa y con
-  oportunidades
+  Algunas acciones que pusimos en marcha para intentar fomentar una profesión
+  más diversa y con oportunidades
 ---
 
 # 2020 Empezar en Diseño Digital
 
 * [designeskola.eu](https://www.designeskola.eu/)
-* [padawanes.com](http://padawanes.com/)
+  * Proyecto personal
 * [Guía del Diseño](https://medium.com/gu%C3%ADa-del-diseño-start-uxdesign-cc)
+  * Proyecto personal que no habría sido posible sin [Raul Redondo](http://raulredondo.com)
   * Traducción autorizada de [uxdesign.cc](https://start.uxdesign.cc/)
-  * No habría sido posible sin [Raul Redondo](http://raulredondo.com)
+* [padawanes.com](http://padawanes.com/)
 
