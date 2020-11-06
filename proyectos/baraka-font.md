@@ -82,6 +82,8 @@ Quien sabe, pero de vez en cuando me viene muy bien tener libertad y desconectar
 
 #### Hay muchas cosas interesantes alrededor, solo hay que aprender a mirar
 
+## Documentación gráfica
+
 #### Geometrías
 
 ![](../.gitbook/assets/_mg_4945.jpg)
