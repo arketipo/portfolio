@@ -8,7 +8,7 @@ Son ya demasiado dias de confinamiento y cuando vuelves a la calle miras cada de
 
 ## Último café antes del confinamiento
 
-![](../.gitbook/assets/_mg_4950.jpg)
+![Llegu&#xE9; a tiempo, el pintxo de tortilla \(con cebolla\) me lo com&#xED; yo](../.gitbook/assets/_mg_4950.jpg)
 
 ## Mirando al Suelo
 
