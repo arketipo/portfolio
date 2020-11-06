@@ -44,11 +44,21 @@ Tengo tiempo libre así que vamos a ver que sale. Un par de horas después:
 
 ![El patr&#xF3;n que compone la calle](../.gitbook/assets/calle.png)
 
+![La calle est&#xE1; llena de cosas como esta WTF](../.gitbook/assets/calle-toc.png)
+
 #### Aparece la "Baraka font"
 
 ![](../.gitbook/assets/baraka.png)
 
+![Tienen un rollo Munich74 &#xBF;no?](../.gitbook/assets/baraka-numbers.png)
 
+## Y si fuese un logo…
+
+![](../.gitbook/assets/baraka1.png)
+
+![](../.gitbook/assets/baraka2.png)
+
+![](../.gitbook/assets/baraka3.png)
 
 #### Antifelicitación 2020
 
@@ -56,11 +66,11 @@ Tengo tiempo libre así que vamos a ver que sale. Un par de horas después:
 
 ![](../.gitbook/assets/pikutara2020.png)
 
-![](../.gitbook/assets/puto2020%20%285%29.png)
+![](../.gitbook/assets/puto2020.png)
 
 ## Y ahora qué
 
-* Podría ser un juego
+* Podría ser un juego con patrones
 * Podría hacer fuente variable
 * Podrían ser camisetas
 * Podrían ser postales para este asqueroso año
