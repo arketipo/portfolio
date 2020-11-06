@@ -68,6 +68,8 @@ Tengo tiempo libre así que vamos a ver que sale. Un par de horas después:
 
 ![](../.gitbook/assets/puto2020.png)
 
+![Creo que me voy a hacer una para mi](../.gitbook/assets/baraka-shirt.gif)
+
 ## Y ahora qué
 
 * Podría ser un juego con patrones
