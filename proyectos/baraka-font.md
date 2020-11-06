@@ -72,7 +72,7 @@ Tengo tiempo libre así que vamos a ver que sale. Un par de horas después:
 
 ## Y ahora qué
 
-* Podría ser un juego con patrones.
+* Podría ser un juego para móvil con patrones.
 * Podría hacer fuente variable.
 * Podrían ser camisetas.
 * Podrían ser postales para este asqueroso año.
