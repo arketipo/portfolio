@@ -1,2 +1,2 @@
-# 2020 Máster Deusto Diseño Estratético
+# 2020 Máster Deusto Diseño Estratégico
 
