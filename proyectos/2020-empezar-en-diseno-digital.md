@@ -1,3 +1,9 @@
+---
+description: >-
+  Algunas acciones para intentar fomentar una profesión más diversa y con
+  oportunidades
+---
+
 # 2020 Empezar en Diseño Digital
 
 * [designeskola.eu](https://www.designeskola.eu/)
