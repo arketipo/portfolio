@@ -2,7 +2,7 @@
 description: wip
 ---
 
-# Fotografía confinada
+# 2020 Fotografía confinada
 
 ![](../.gitbook/assets/_mg_4894.jpg)
 

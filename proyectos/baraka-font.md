@@ -2,7 +2,7 @@
 description: Cuando el diablo se aburre…
 ---
 
-# Baraka font
+# 2020 Baraka font
 
 Son ya demasiado dias de confinamiento y cuando vuelves a la calle miras cada detalle. Te quitas la máscara un momento, cuando no hay nadie alrededor, más que para respirar, para sentir el frio en la cara. Ni siquiera puedo ir a ver el mar. Vienen tiempos duros.
 
@@ -20,7 +20,7 @@ Son ya demasiado dias de confinamiento y cuando vuelves a la calle miras cada de
 
 ## Aparecen las "anomalías"
 
-![](../.gitbook/assets/_mg_4920%20%281%29.jpg)
+![Mi calle esta llena de desajustes, creo que me trolean :\)](../.gitbook/assets/_mg_4920%20%281%29.jpg)
 
 ##  Quizás tenga posibilidades
 
@@ -61,8 +61,9 @@ Tengo tiempo libre así que vamos a ver que sale. Un par de horas después:
 ## Y ahora qué
 
 * Podría ser un juego
+* Podría hacer fuente variable
 * Podrían ser camisetas
 * Podrían ser postales para este asqueroso año
 
-Quien sabe, pero de vez en cuando me viene muy bien tener libertad y desconectar
+Quien sabe, pero de vez en cuando me viene muy bien tener libertad y desconectar.
 
