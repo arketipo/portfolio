@@ -6,3 +6,5 @@ description: Profesor invitado
 
 Un workshop de 10 horas donde sentar las bases en la creación y diseño de un producto digital.
 
+![](../.gitbook/assets/img_5821.jpg)
+
