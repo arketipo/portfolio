@@ -58,3 +58,11 @@ Tengo tiempo libre así que vamos a ver que sale. Un par de horas después:
 
 ![](../.gitbook/assets/puto2020%20%285%29.png)
 
+## Y ahora qué
+
+* Podría ser un juego
+* Podrían ser camisetas
+* Podrían ser postales para este asqueroso año
+
+Quien sabe, pero de vez en cuando me viene muy bien tener libertad y desconectar
+
