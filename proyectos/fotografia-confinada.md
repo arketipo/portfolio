@@ -8,6 +8,10 @@ Un proyecto, en curso, fotografíando objetos cercanos que tienen significado pa
 
 ![Primera prueba](../.gitbook/assets/_mg_4894.jpg)
 
+![Segunda prueba](../.gitbook/assets/02-prueba.jpg)
+
+![Uno de los mejores dise&#xF1;os que conozco](../.gitbook/assets/03-prueba.jpg)
+
 ## Objetos confinados
 
 #### Que por una u otra razón son importantes para mi
