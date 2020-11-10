@@ -1,7 +1,3 @@
----
-description: wip
----
-
 # 2020 Fotografía confinada
 
 Un proyecto, en curso, fotografíando objetos cercanos que tienen significado para mi.
